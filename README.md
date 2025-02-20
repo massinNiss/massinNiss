@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**massinNiss/massinNiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[Niharmine MASSINE]** 🚀💡  
+4th-Year Engineering Student | AI 🤖 | Data Science 📊 | Digital Transformation 🌍  
 
-Here are some ideas to get you started:
+Passionate about **AI, machine learning, data science, and digital transformation**. Skilled in:  
+✅ **Deep Learning & Machine Learning** 🧠👀  
+✅ **Cybersecurity & Data Privacy** 🔐🔗  
+✅ **Project Management & ERP Systems** ⚙️📊  
+✅ **Cloud Computing & Big Data Technologies** 🚀  
+✅ **Linux System Administration & Shell Scripting** 🐧💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring **international exchange programs** to expand my expertise globally.  
+
+Always eager to learn, innovate, and drive digital change! 🚀
+
+- 📫 How to reach me: niharminemassine@gmail.com
