@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**[Niharmine MASSINE]** 🚀💡  
+**Niharmine MASSINE** 🚀💡  
 4th-Year Engineering Student | AI 🤖 | Data Science 📊 | Digital Transformation 🌍  
 
 Passionate about **AI, machine learning, data science, and digital transformation**. Skilled in:  
