@@ -10,7 +10,6 @@ Passionate about **AI, machine learning, data science, and digital transformatio
 ✅ **Cloud Computing & Big Data Technologies** 🚀  
 ✅ **Linux System Administration & Shell Scripting** 🐧💻
 
-Currently exploring **international exchange programs** to expand my expertise globally.  
 
 Always eager to learn, innovate, and drive digital change! 🚀
 
