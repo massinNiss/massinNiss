@@ -14,4 +14,4 @@ Passionate about **AI, machine learning, data science, and digital transformatio
 Always eager to learn, innovate, and drive digital change! 🚀
 
 - 📫 How to reach me: niharminemassine@gmail.com
-- 🌐 [My Portfolio]([https://portfolio-ko5in4wus-massines-projects-ed570dd4.vercel.app/])
+- 🌐 [My Portfolio](https://portfolio-xi-three-80i1zkjbve.vercel.app/)
